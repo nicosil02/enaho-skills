@@ -1,0 +1,4 @@
+datos/
+salidas/*.parquet
+__pycache__/
+.venv/

@@ -1,0 +1,15 @@
+ENAHO 2024
+Hogares en la sumaria: 33,691
+Filas del módulo de miembros: 117,721
+Residentes habituales: 108,664
+Miembros del hogar, base de la pobreza: 109,842
+Pobreza con la sumaria, factor07 por mieperho: 27.58%
+Pobreza con personas, facpob07: 27.58%
+Pobreza extrema: 5.50%
+Pobreza con la sumaria: OK
+Pobreza con personas: OK
+Pobreza extrema: OK
+Hogares: OK
+Filas de miembros: OK
+Residentes: OK
+Referencia INEI 2024: pobreza 27.6%, residentes 108,664

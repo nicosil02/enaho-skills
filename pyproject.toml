@@ -1,0 +1,15 @@
+[project]
+name = "enaho-skills"
+version = "0.1.0"
+description = "Skills de Claude Code para descargar, limpiar, graficar y mapear la ENAHO"
+readme = "README.md"
+authors = [
+    { name = "Nicolas Silva", email = "a20200832@pucp.edu.pe" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "geopandas>=1.2.0",
+    "matplotlib>=3.11.2",
+    "pandas>=3.1.0",
+    "pyarrow>=26.0.0",
+]
